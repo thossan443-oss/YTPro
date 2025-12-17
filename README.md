@@ -2,7 +2,7 @@
 <p align="center">
 <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro.gif' height=150  >
 </p>
-<h1 align=center>YT PRO </h1>
+<h1 align=center>YT PRO 2026 </h1>
 
 <div align="center">
 
